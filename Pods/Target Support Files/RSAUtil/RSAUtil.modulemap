@@ -1,0 +1,6 @@
+framework module RSAUtil {
+  umbrella header "RSAUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}

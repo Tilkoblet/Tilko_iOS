@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-sample/Pods-sample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ASN1Decoder/ASN1Decoder.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BlueRSA/CryptorRSA.framework
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
+${BUILT_PRODUCTS_DIR}/RSAUtil/RSAUtil.framework
+${BUILT_PRODUCTS_DIR}/SignalRSwift/SignalRSwift.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftDate/SwiftDate.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/SwiftyRSA/SwiftyRSA.framework
